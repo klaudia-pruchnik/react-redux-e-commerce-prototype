@@ -1,4 +1,4 @@
-# Redux Shopping Cart
+# Redux E-commerce Prototype
 
 This project is a simple shopping cart application built with React and Redux Toolkit. It allows users to add, remove, and manage product quantities dynamically. The UI updates based on the global state managed by Redux.
 
